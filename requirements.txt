@@ -1,0 +1,4 @@
+comtypes==1.1.11
+mediapipe==0.8.10
+numpy==1.21.4
+pycaw==20220416
